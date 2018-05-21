@@ -1,0 +1,25 @@
+{
+    "path": "http://filehosting.pptik.id/BINSTORAGE/RAW/1f91ac07f06cde93f20a09afbb3b31f9_cropped435746221.jpg",
+    "time_stamp": "2018-05-13T12:25:44.026Z",
+    "task_id": 1526214344026,
+    "user_id": "5af7beafa8122f270846c318",
+    "unit_id": "UPC1",
+    "results": {
+      "type": "image",
+      "resultpath": "",
+      "result": [
+        {
+          "label": "person",
+          "confidence": "90.8%",
+          "topleft": {
+            "x": 1312,
+            "y": 1231
+          },
+          "bottomright": {
+            "x": 1312,
+            "y": 1231
+          }
+        }
+      ]
+    }
+  }
